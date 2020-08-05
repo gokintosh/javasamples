@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e0dc48c0-92ca-46fb-85bc-5dc7027a836f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practical Java/META-INF/Practical Java.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practical Java/Tax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practical Java/TestTax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practical Java/com/practicaljava/lesson2/AdditionQuiz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practical Java/com/practicaljava/lesson2/ComputeArea.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practical Java/com/practicaljava/lesson2/ComputeAreaWithConsoleInput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practical Java/com/practicaljava/lesson2/ComputeChange.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practical Java/com/practicaljava/lesson2/ComputeLoan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practical Java/com/practicaljava/lesson2/FarenheitToCelcius.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practical Java/com/practicaljava/lesson2/HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practical Java/com/practicaljava/lesson2/SaleTax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practical Java/com/practicaljava/lesson2/ShowCurrentTime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practical Java/com/practicaljava/lesson2/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practical Java/math/ComputeAngles.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practical Java/math/randomnumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practical Java/selections/SimpleIfDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestTax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practicaljava/lesson2/AdditionQuiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practicaljava/lesson2/ComputeArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practicaljava/lesson2/ComputeAreaWithConsoleInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practicaljava/lesson2/ComputeChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practicaljava/lesson2/ComputeLoan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practicaljava/lesson2/FarenheitToCelcius.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practicaljava/lesson2/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practicaljava/lesson2/SaleTax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practicaljava/lesson2/ShowCurrentTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practicaljava/lesson2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/ComputeAngles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/randomnumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/TestSimpleCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/TestTV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/selections/SimpleIfDemo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ea8zrtGuLRnDMUoMXh98AtRYtR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.TestTV">
+    <configuration name="ComputeAngles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="math.ComputeAngles" />
+      <module name="Practical Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleIfDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="selections.SimpleIfDemo" />
+      <module name="Practical Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSimpleCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.TestSimpleCircle" />
+      <module name="Practical Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.TestTV" />
+      <module name="Practical Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="randomnumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="math.randomnumber" />
+      <module name="Practical Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestTV" />
+        <item itemvalue="Application.TestSimpleCircle" />
+        <item itemvalue="Application.ComputeAngles" />
+        <item itemvalue="Application.randomnumber" />
+        <item itemvalue="Application.SimpleIfDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0dc48c0-92ca-46fb-85bc-5dc7027a836f" name="Default Changelist" comment="" />
+      <created>1594548608855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594548608855</updated>
+      <workItem from="1594548612163" duration="2213000" />
+      <workItem from="1594563280016" duration="5444000" />
+      <workItem from="1594632593787" duration="6270000" />
+      <workItem from="1594934188950" duration="41000" />
+      <workItem from="1595024830568" duration="26000" />
+      <workItem from="1595173485337" duration="4435000" />
+      <workItem from="1595255915376" duration="2920000" />
+      <workItem from="1595325966961" duration="2558000" />
+      <workItem from="1595857674428" duration="7946000" />
+      <workItem from="1596373144957" duration="6710000" />
+      <workItem from="1596608252817" duration="8171000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2505" y="120" key="CommitChangelistDialog2" timestamp="1596608887168">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2505" y="120" key="CommitChangelistDialog2/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1596608887168" />
+    <state width="1493" height="172" key="GridCell.Tab.0.bottom" timestamp="1596620637016">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="269" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1595332476776" />
+    <state width="1493" height="172" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1596620637016" />
+    <state width="1877" height="172" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1596611302733" />
+    <state width="1815" height="386" key="GridCell.Tab.0.bottom/62.0.1474.864/62.-1080.1858.1080@62.-1080.1858.1080" timestamp="1594590822604" />
+    <state width="1431" height="294" key="GridCell.Tab.0.bottom/62.0.1474.864/62.-1080.1858.1080@62.0.1474.864" timestamp="1594653846051" />
+    <state width="1431" height="295" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1594561787909" />
+    <state width="1493" height="172" key="GridCell.Tab.0.center" timestamp="1596620637015">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="269" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1595332476776" />
+    <state width="1493" height="172" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1596620637015" />
+    <state width="1877" height="172" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1596611302733" />
+    <state width="1815" height="386" key="GridCell.Tab.0.center/62.0.1474.864/62.-1080.1858.1080@62.-1080.1858.1080" timestamp="1594590822604" />
+    <state width="1431" height="294" key="GridCell.Tab.0.center/62.0.1474.864/62.-1080.1858.1080@62.0.1474.864" timestamp="1594653846051" />
+    <state width="1431" height="295" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1594561787909" />
+    <state width="1493" height="172" key="GridCell.Tab.0.left" timestamp="1596620637015">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="269" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1595332476776" />
+    <state width="1493" height="172" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1596620637015" />
+    <state width="1877" height="172" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1596611302732" />
+    <state width="1815" height="386" key="GridCell.Tab.0.left/62.0.1474.864/62.-1080.1858.1080@62.-1080.1858.1080" timestamp="1594590822604" />
+    <state width="1431" height="294" key="GridCell.Tab.0.left/62.0.1474.864/62.-1080.1858.1080@62.0.1474.864" timestamp="1594653846050" />
+    <state width="1431" height="295" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1594561787909" />
+    <state width="1493" height="172" key="GridCell.Tab.0.right" timestamp="1596620637016">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="269" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1595332476776" />
+    <state width="1493" height="172" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1596620637016" />
+    <state width="1877" height="172" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1596611302733" />
+    <state width="1815" height="386" key="GridCell.Tab.0.right/62.0.1474.864/62.-1080.1858.1080@62.-1080.1858.1080" timestamp="1594590822604" />
+    <state width="1431" height="294" key="GridCell.Tab.0.right/62.0.1474.864/62.-1080.1858.1080@62.0.1474.864" timestamp="1594653846051" />
+    <state width="1431" height="295" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1594561787909" />
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom" timestamp="1595886317726">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1595886317726" />
+    <state width="1877" height="352" key="GridCell.Tab.1.center" timestamp="1595886317726">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.center/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1595886317726" />
+    <state width="1877" height="352" key="GridCell.Tab.1.left" timestamp="1595886317726">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.left/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1595886317726" />
+    <state width="1877" height="352" key="GridCell.Tab.1.right" timestamp="1595886317726">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.right/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1595886317726" />
+    <state x="452" y="249" key="com.intellij.ide.util.TipDialog" timestamp="1596608341654">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="452" y="249" key="com.intellij.ide.util.TipDialog/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1595326039752" />
+    <state x="452" y="249" key="com.intellij.ide.util.TipDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1595857674612" />
+    <state x="452" y="249" key="com.intellij.ide.util.TipDialog/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1596608341654" />
+    <state x="609" y="-757" key="com.intellij.ide.util.TipDialog/62.0.1474.864/62.-1080.1858.1080@62.-1080.1858.1080" timestamp="1594632593417" />
+    <state x="496" y="258" key="com.intellij.ide.util.TipDialog/62.0.1474.864/62.-1080.1858.1080@62.0.1474.864" timestamp="1594563280261" />
+    <state x="2441" y="262" width="877" height="602" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1595883566178">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2441" y="262" width="877" height="602" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1595883566178" />
+  </component>
+</project>
