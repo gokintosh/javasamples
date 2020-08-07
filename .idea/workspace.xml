@@ -2,46 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0dc48c0-92ca-46fb-85bc-5dc7027a836f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practical Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practical Java/META-INF/Practical Java.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practical Java/Tax.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practical Java/TestTax.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practical Java/com/practicaljava/lesson2/AdditionQuiz.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practical Java/com/practicaljava/lesson2/ComputeArea.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practical Java/com/practicaljava/lesson2/ComputeAreaWithConsoleInput.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practical Java/com/practicaljava/lesson2/ComputeChange.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practical Java/com/practicaljava/lesson2/ComputeLoan.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practical Java/com/practicaljava/lesson2/FarenheitToCelcius.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practical Java/com/practicaljava/lesson2/HelloWorld.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practical Java/com/practicaljava/lesson2/SaleTax.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practical Java/com/practicaljava/lesson2/ShowCurrentTime.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practical Java/com/practicaljava/lesson2/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practical Java/math/ComputeAngles.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practical Java/math/randomnumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practical Java/selections/SimpleIfDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestTax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practicaljava/lesson2/AdditionQuiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practicaljava/lesson2/ComputeArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practicaljava/lesson2/ComputeAreaWithConsoleInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practicaljava/lesson2/ComputeChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practicaljava/lesson2/ComputeLoan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practicaljava/lesson2/FarenheitToCelcius.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practicaljava/lesson2/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practicaljava/lesson2/SaleTax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practicaljava/lesson2/ShowCurrentTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practicaljava/lesson2/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math/ComputeAngles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math/randomnumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/TV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/TestSimpleCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/TestTV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selections/SimpleIfDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +142,8 @@
       <workItem from="1595325966961" duration="2558000" />
       <workItem from="1595857674428" duration="7946000" />
       <workItem from="1596373144957" duration="6710000" />
-      <workItem from="1596608252817" duration="8171000" />
+      <workItem from="1596608252817" duration="9389000" />
+      <workItem from="1596738023871" duration="624000" />
     </task>
     <servers />
   </component>
@@ -193,38 +155,38 @@
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
     <state x="2505" y="120" key="CommitChangelistDialog2/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1596608887168" />
-    <state width="1493" height="172" key="GridCell.Tab.0.bottom" timestamp="1596620637016">
+    <state width="1493" height="172" key="GridCell.Tab.0.bottom" timestamp="1596660898948">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="269" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1595332476776" />
-    <state width="1493" height="172" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1596620637016" />
+    <state width="1493" height="172" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1596660898948" />
     <state width="1877" height="172" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1596611302733" />
     <state width="1815" height="386" key="GridCell.Tab.0.bottom/62.0.1474.864/62.-1080.1858.1080@62.-1080.1858.1080" timestamp="1594590822604" />
     <state width="1431" height="294" key="GridCell.Tab.0.bottom/62.0.1474.864/62.-1080.1858.1080@62.0.1474.864" timestamp="1594653846051" />
     <state width="1431" height="295" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1594561787909" />
-    <state width="1493" height="172" key="GridCell.Tab.0.center" timestamp="1596620637015">
+    <state width="1493" height="172" key="GridCell.Tab.0.center" timestamp="1596660898948">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="269" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1595332476776" />
-    <state width="1493" height="172" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1596620637015" />
+    <state width="1493" height="172" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1596660898948" />
     <state width="1877" height="172" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1596611302733" />
     <state width="1815" height="386" key="GridCell.Tab.0.center/62.0.1474.864/62.-1080.1858.1080@62.-1080.1858.1080" timestamp="1594590822604" />
     <state width="1431" height="294" key="GridCell.Tab.0.center/62.0.1474.864/62.-1080.1858.1080@62.0.1474.864" timestamp="1594653846051" />
     <state width="1431" height="295" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1594561787909" />
-    <state width="1493" height="172" key="GridCell.Tab.0.left" timestamp="1596620637015">
+    <state width="1493" height="172" key="GridCell.Tab.0.left" timestamp="1596660898947">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="269" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1595332476776" />
-    <state width="1493" height="172" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1596620637015" />
+    <state width="1493" height="172" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1596660898947" />
     <state width="1877" height="172" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1596611302732" />
     <state width="1815" height="386" key="GridCell.Tab.0.left/62.0.1474.864/62.-1080.1858.1080@62.-1080.1858.1080" timestamp="1594590822604" />
     <state width="1431" height="294" key="GridCell.Tab.0.left/62.0.1474.864/62.-1080.1858.1080@62.0.1474.864" timestamp="1594653846050" />
     <state width="1431" height="295" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1594561787909" />
-    <state width="1493" height="172" key="GridCell.Tab.0.right" timestamp="1596620637016">
+    <state width="1493" height="172" key="GridCell.Tab.0.right" timestamp="1596660898948">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="269" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1595332476776" />
-    <state width="1493" height="172" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1596620637016" />
+    <state width="1493" height="172" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1596660898948" />
     <state width="1877" height="172" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1596611302733" />
     <state width="1815" height="386" key="GridCell.Tab.0.right/62.0.1474.864/62.-1080.1858.1080@62.-1080.1858.1080" timestamp="1594590822604" />
     <state width="1431" height="294" key="GridCell.Tab.0.right/62.0.1474.864/62.-1080.1858.1080@62.0.1474.864" timestamp="1594653846051" />
@@ -245,11 +207,11 @@
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="352" key="GridCell.Tab.1.right/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1595886317726" />
-    <state x="452" y="249" key="com.intellij.ide.util.TipDialog" timestamp="1596608341654">
+    <state x="452" y="249" key="com.intellij.ide.util.TipDialog" timestamp="1596738050009">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="452" y="249" key="com.intellij.ide.util.TipDialog/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1595326039752" />
-    <state x="452" y="249" key="com.intellij.ide.util.TipDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1595857674612" />
+    <state x="452" y="249" key="com.intellij.ide.util.TipDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1596738050009" />
     <state x="452" y="249" key="com.intellij.ide.util.TipDialog/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1596608341654" />
     <state x="609" y="-757" key="com.intellij.ide.util.TipDialog/62.0.1474.864/62.-1080.1858.1080@62.-1080.1858.1080" timestamp="1594632593417" />
     <state x="496" y="258" key="com.intellij.ide.util.TipDialog/62.0.1474.864/62.-1080.1858.1080@62.0.1474.864" timestamp="1594563280261" />
