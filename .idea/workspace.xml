@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0dc48c0-92ca-46fb-85bc-5dc7027a836f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/oop/CircleWithStaticMembers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/TestCircleWithStaticMembers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/privatedata/CircleWithPrivateDataFields.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/TestPoint2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/TestPoint2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/TestSimpleCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/TestSimpleCircle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +51,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager" selected="Application.TestTV">
+  <component name="RunManager" selected="Application.TestCircleWithStaticMembers">
     <configuration name="ComputeAngles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="math.ComputeAngles" />
       <module name="Practical Java" />
@@ -60,12 +65,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleIfDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="selections.SimpleIfDemo" />
+    <configuration name="TestCircleWithStaticMembers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.TestCircleWithStaticMembers" />
       <module name="Practical Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="selections.*" />
+          <option name="PATTERN" value="oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPoint2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.TestPoint2D" />
+      <module name="Practical Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,26 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="randomnumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.randomnumber" />
-      <module name="Practical Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="math.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestCircleWithStaticMembers" />
+        <item itemvalue="Application.TestPoint2D" />
         <item itemvalue="Application.TestTV" />
         <item itemvalue="Application.TestSimpleCircle" />
         <item itemvalue="Application.ComputeAngles" />
-        <item itemvalue="Application.randomnumber" />
-        <item itemvalue="Application.SimpleIfDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -144,6 +149,10 @@
       <workItem from="1596373144957" duration="6710000" />
       <workItem from="1596608252817" duration="9389000" />
       <workItem from="1596738023871" duration="624000" />
+      <workItem from="1596781157134" duration="4258000" />
+      <workItem from="1596834251019" duration="1359000" />
+      <workItem from="1596869022146" duration="6001000" />
+      <workItem from="1596956453130" duration="960000" />
     </task>
     <servers />
   </component>
@@ -151,42 +160,46 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1596784036751">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1596784036751" />
     <state x="2505" y="120" key="CommitChangelistDialog2" timestamp="1596608887168">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
     <state x="2505" y="120" key="CommitChangelistDialog2/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1596608887168" />
-    <state width="1493" height="172" key="GridCell.Tab.0.bottom" timestamp="1596660898948">
+    <state width="1493" height="172" key="GridCell.Tab.0.bottom" timestamp="1596925887991">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="269" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1595332476776" />
-    <state width="1493" height="172" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1596660898948" />
+    <state width="1493" height="172" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1596925887991" />
     <state width="1877" height="172" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1596611302733" />
     <state width="1815" height="386" key="GridCell.Tab.0.bottom/62.0.1474.864/62.-1080.1858.1080@62.-1080.1858.1080" timestamp="1594590822604" />
     <state width="1431" height="294" key="GridCell.Tab.0.bottom/62.0.1474.864/62.-1080.1858.1080@62.0.1474.864" timestamp="1594653846051" />
     <state width="1431" height="295" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1594561787909" />
-    <state width="1493" height="172" key="GridCell.Tab.0.center" timestamp="1596660898948">
+    <state width="1493" height="172" key="GridCell.Tab.0.center" timestamp="1596925887990">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="269" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1595332476776" />
-    <state width="1493" height="172" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1596660898948" />
+    <state width="1493" height="172" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1596925887990" />
     <state width="1877" height="172" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1596611302733" />
     <state width="1815" height="386" key="GridCell.Tab.0.center/62.0.1474.864/62.-1080.1858.1080@62.-1080.1858.1080" timestamp="1594590822604" />
     <state width="1431" height="294" key="GridCell.Tab.0.center/62.0.1474.864/62.-1080.1858.1080@62.0.1474.864" timestamp="1594653846051" />
     <state width="1431" height="295" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1594561787909" />
-    <state width="1493" height="172" key="GridCell.Tab.0.left" timestamp="1596660898947">
+    <state width="1493" height="172" key="GridCell.Tab.0.left" timestamp="1596925887990">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="269" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1595332476776" />
-    <state width="1493" height="172" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1596660898947" />
+    <state width="1493" height="172" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1596925887990" />
     <state width="1877" height="172" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1596611302732" />
     <state width="1815" height="386" key="GridCell.Tab.0.left/62.0.1474.864/62.-1080.1858.1080@62.-1080.1858.1080" timestamp="1594590822604" />
     <state width="1431" height="294" key="GridCell.Tab.0.left/62.0.1474.864/62.-1080.1858.1080@62.0.1474.864" timestamp="1594653846050" />
     <state width="1431" height="295" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1594561787909" />
-    <state width="1493" height="172" key="GridCell.Tab.0.right" timestamp="1596660898948">
+    <state width="1493" height="172" key="GridCell.Tab.0.right" timestamp="1596925887991">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="269" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1595332476776" />
-    <state width="1493" height="172" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1596660898948" />
+    <state width="1493" height="172" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1596925887991" />
     <state width="1877" height="172" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1596611302733" />
     <state width="1815" height="386" key="GridCell.Tab.0.right/62.0.1474.864/62.-1080.1858.1080@62.-1080.1858.1080" timestamp="1594590822604" />
     <state width="1431" height="294" key="GridCell.Tab.0.right/62.0.1474.864/62.-1080.1858.1080@62.0.1474.864" timestamp="1594653846051" />
@@ -207,11 +220,11 @@
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="352" key="GridCell.Tab.1.right/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1595886317726" />
-    <state x="452" y="249" key="com.intellij.ide.util.TipDialog" timestamp="1596738050009">
+    <state x="452" y="249" key="com.intellij.ide.util.TipDialog" timestamp="1596956460346">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="452" y="249" key="com.intellij.ide.util.TipDialog/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1595326039752" />
-    <state x="452" y="249" key="com.intellij.ide.util.TipDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1596738050009" />
+    <state x="452" y="249" key="com.intellij.ide.util.TipDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1596956460346" />
     <state x="452" y="249" key="com.intellij.ide.util.TipDialog/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1596608341654" />
     <state x="609" y="-757" key="com.intellij.ide.util.TipDialog/62.0.1474.864/62.-1080.1858.1080@62.-1080.1858.1080" timestamp="1594632593417" />
     <state x="496" y="258" key="com.intellij.ide.util.TipDialog/62.0.1474.864/62.-1080.1858.1080@62.0.1474.864" timestamp="1594563280261" />
@@ -219,5 +232,9 @@
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
     <state x="2441" y="262" width="877" height="602" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1595883566178" />
+    <state x="431" y="155" key="search.everywhere.popup" timestamp="1596891580524">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" key="search.everywhere.popup/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1596891580524" />
   </component>
 </project>

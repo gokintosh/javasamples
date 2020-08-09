@@ -25,7 +25,7 @@ public class TestSimpleCircle {
 
 }
 
-class SimpleCircle{
+class  SimpleCircle{
     double radius;
 
 //    construct a circle with radius 1
